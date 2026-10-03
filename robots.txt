@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jest-anime.github.io/Anime-Vizyon/sitemap.xml
